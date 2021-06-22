@@ -1,9 +1,10 @@
 import React from "react";
-import { LineChart } from "./components/LineChart";
+import { WorldMap } from "./components/WorldMap";
+// import { LineChart } from "./components/LineChart";
 // import { Scatter } from "./components/ScatterPlot";
 
 function App() {
-  return <LineChart />;
+  return <WorldMap />;
 }
 
 export default App;
